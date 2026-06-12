@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import Image1 from '../assets/images/Founders.png'
-import Image2 from '../assets/images/Image2_Story.47.56.jpeg'
-import Image3 from '../assets/images/WhatsApp Image 2026-06-01 at 19.25.24.jpeg'
-import Image4 from '../assets/images/WhatsApp Image 2026-06-01 at 19.25.29.jpeg'
+import Image2 from '../assets/images/Muffin.jpeg'
+import Image3 from '../assets/images/Story_Product1.jpeg'
+import Image4 from '../assets/images/Story_Product2.jpeg'
 
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
