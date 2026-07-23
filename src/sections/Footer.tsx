@@ -47,10 +47,6 @@ const Footer = () => {
           </svg>
         </div>
 
-        <div>
-          Designed & developed by MB.
-        </div>
-
       </section>
     </>
   )
